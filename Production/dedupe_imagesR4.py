@@ -1,3 +1,4 @@
+@This program dumps all the .jpg files in one directory and does not compare the images by group
 import os
 import cv2
 import shutil
